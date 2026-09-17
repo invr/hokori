@@ -4,8 +4,8 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://cry.cc/', // Site domain
-    title: 'CRIED', // Site title
-    author: 'crier', // Author name
+    title: '頑石', // Site title
+    author: 'cry.cc', // Author name
     description: 'Cried, laughed.', // Site description
     language: 'zh-CN' // Default language
   },
@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
   general: {
     contentWidth: '35rem', // Content area width
     centeredLayout: true, // Use centered layout (false for left-aligned)
-    themeToggle: false, // Show theme toggle button (uses system theme by default)
+    themeToggle: true, // Show theme toggle button (uses system theme by default)
     postListDottedDivider: false, // Show dotted divider in post list
     footer: true, // Show footer
     fadeAnimation: true // Enable fade animations
