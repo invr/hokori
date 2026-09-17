@@ -17,10 +17,10 @@ Effortlessly share your thoughts in a calm & dustless space.
 Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
 -->
 
-原是在大荒山无稽崖青埂峰下，此石遭逢女娲氏遗落，怆然涕下，日夜悲号。
-
 “_无才可去补苍天，枉入红尘若许年_”
 
-它又听了一僧一道的途说，心动入世，历尽了离合悲欢炎凉世态，回到山前，被我偶然拾到。
+原是在大荒山无稽崖青埂峰下，此石遭逢女娲氏遗落，怆然涕下，日夜悲号。
+
+后来它听了一僧一道的途说，心动入世，历尽了离合悲欢炎凉世态，被我偶然拾到。
 
 我得此石，专记无益之事，消遣有涯之生。
