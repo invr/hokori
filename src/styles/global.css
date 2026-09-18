@@ -10,9 +10,14 @@
   --serif: Besley, Baskerville, Georgia, 'Times New Roman', Times, serif;
   --mono: 'SF Mono', SFMono-Regular, ui-monospace;
 
+  /*
   --font-size-s: 0.8125rem;
   --font-size-m: 0.9375rem;
   --font-size-l: 1.0625rem;
+  */
+  --font-size-s: 1.0625rem;
+  --font-size-m: 1.1875rem;
+  --font-size-l: 1.3125rem;
 
   --font-weight-light: 350;
   --font-weight-regular: 400;
